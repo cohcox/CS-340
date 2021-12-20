@@ -1,2 +1,15 @@
 # CS-340
 Client/Server Development
+
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+  
+  The best way to make maintainable code is to follow the best coding practices. Ensure that code is highly readable by keeping things as tidy as possible. The advantage of working in this way makes sure that code is in smaller digestable pieces instead of in one extremely long script. Coding this way gives you smaller modules to look through and debug. I could reuse this CRUD module in many ways in the future in my own personal projects. Especially anything that requires basic creation and deletion code.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+  
+  Approaching a problem as a computer scientist is a highly analytic process. I always tend to think of projects first as what I want out of the application, or in other words waht the client would want out of the application. Then, you break that down into different sections. I completed each section, one by one, ensuring that they each "play nice" together by testing as I move along. This project differed as it was the first project that I have done that required me to develop a full application from scratch using a database. I have never been very strong in my back end programming, particularly in using databases, but this project helped me learn in grow in many ways that other courses didn't. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+  
+  Computer scientists, in my mind, are much more than simply programmers. They are problem solvers that can essentially make something out of nothing. If I use an application or website, I now look at it in ways in which it could be improved. Instead of whining about something not working quite the way I'd like, I start thinking of ways I would make it better if I were to create the application. My work on this type of project is invaluable, at least personally, as it helped me learn so much. For a business it helps with database management, and helps bridge the gap between the sometimes daunting idea of back-end database development with the softer, more user-friendly front-end. I have created aplpications before with a GUI that interacts with python scripts to achieve a certain goal, but never anything that married that process with the use of CRUD functionality to a database.
